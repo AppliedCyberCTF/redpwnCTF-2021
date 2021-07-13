@@ -24,10 +24,8 @@ This specific writeup is from ACS, or Applied Cybersecurity Society.
 
 |Question|Points|
 |-|-|
-|[Relatively Simple Algorithm](./Crypto/Relatively%20Simple%20Algorithm.md)|40|
-|[Exclusive Cipher](Crypto/Exclusive%20Cipher.md)|40|
-|[Keysar v2](./Crypto/Keysar%20v2.md)|40|
-|[sosig](./Crypto/Sosig.md)|70|
+|[scissor](./Crypto/scissor.md)|102|
+|[baby](./Crypto/baby.md)|103|
 
 </details>
 <details>
