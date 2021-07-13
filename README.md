@@ -1,10 +1,10 @@
-# angstromCTF-2021
-April 2nd - April 7th
+# redpwnCTF-2021
+July 9th - July 12th
 
 ## About
 This specific writeup is from ACS, or Applied Cybersecurity Society.
 
-> Want to play these challenges? Head on over to the [angstromCTF website](2021.angstromctf.com/).
+> Want to play these challenges? Head on over to the [redpwnCTF website](2021.redpwnctf.com/).
 
 ## Table of Contents
 
@@ -59,4 +59,4 @@ This specific writeup is from ACS, or Applied Cybersecurity Society.
 ## Contributors
 Thanks to all the contributors who solved challenges and submitted writeups to this repository:
 
-![contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/angstromCTF-2021)
+![contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/redpwnCTF-2021)
