@@ -33,8 +33,7 @@ This specific writeup is from ACS, or Applied Cybersecurity Society.
 
 |Question|Points|
 |-|-|
-|[Free Flags!!1!!](Rev/Free_Flags/free_flags/README.md)|50|
-|[Revex](./Rev/Revex.md)|75|
+|[wstrings](./Rev/wstrings.md)|102|
 
 </details>
 <details>
